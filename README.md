@@ -40,6 +40,5 @@ Projects exploring document ingestion, embedding retrieval, reranking, answer gr
 I am especially interested in:
 - Agent runtime / harness engineering
 - Long-horizon task control
-- AI coding agents
 - Skill-based tool orchestration
 - Evaluation-driven Agent systems
